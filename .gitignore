@@ -1,0 +1,4 @@
+venv/
+.idea/
+mnist_convnet_model/
+MNIST-data/
